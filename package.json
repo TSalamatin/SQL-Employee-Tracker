@@ -1,0 +1,17 @@
+{
+  "name": "11-employee-tracker",
+  "version": "1.0.0",
+  "description": "Internal application using Node.js to manage employees",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "TSalamatin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.2.8",
+    "mysql2": "^3.5.1"
+  }
+}
