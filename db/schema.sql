@@ -1,8 +1,8 @@
---Start Database if it doesnt exist
-CREATE DATABASE IF NOT EXISTS employees_db_db;
---Switch to it
+Drop DATABASE IF EXISTS employees_db;
+CREATE DATABASE employees_db;
+
 USE employees_db;
---Add Tables
+
 CREATE TABLE departments (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(30) NOT NULL
@@ -15,7 +15,6 @@ CREATE TABLE roles (
   department_id INT,
   FOREIGN KEY (department_id)
   REFERENCES departments(id)
-  ON DELETE SET NULL
 );
 
 
@@ -23,12 +22,11 @@ CREATE TABLE employees (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   first_name VARCHAR(30) NOT NULL,
   last_name VARCHAR(30) NOT Null,
-  role_id INT,
+  role_id INT NOT Null,
   manager_id INT,
   FOREIGN KEY (role_id)
-  REFERENCES roles(id)
+  REFERENCES roles(id),
   FOREIGN KEY (manager_id)
   REFERENCES employees(id)
-  
   ON DELETE SET NULL
 );
