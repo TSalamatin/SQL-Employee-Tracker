@@ -36,7 +36,7 @@ This application takes advantage of the tools provided by Node.JS and MySQL. The
     
 #Contact
 
-    Github: https://github.com/TSalamatin.com
+    Github: [https://github.com/TSalamatin.com](https://github.com/TSalamatin)
 
-    Email: TJSalamatin@gmail.com
+    Email: [TJSalamatin@gmail.com](mailto:TJSalamatin@gmail.com)
     
