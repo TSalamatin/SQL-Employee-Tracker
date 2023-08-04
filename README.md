@@ -19,7 +19,6 @@ The function is the ability add Departments, Roles, and Employees to a database,
 
 - [Contact](#contact)
 
-    
 ## Installation Instructions
     
 To install this project, you must have Node.JS installed on your local computer, copy the repository, then run npm I in the terminal to install the Inquirer package. 
