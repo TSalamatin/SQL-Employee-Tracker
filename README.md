@@ -3,8 +3,8 @@
 
 ## Description
     
-This application takes advantage of the tools provided by Node.JS and MySQL. The function is the ability add Departments, Roles, and Employees to a database,
-as well as being able to update the Employee's role as time in the company goes on.
+This application takes advantage of the tools provided by Node.JS and MySQL.
+The function is the ability add Departments, Roles, and Employees to a database,as well as being able to update the Employee's role as time in the company goes on.
 
 
  
@@ -27,7 +27,7 @@ as well as being able to update the Employee's role as time in the company goes 
     
 #Usage Information
     
-    Here is a short clip on how to use the application, in this instace, I have provided a seeds.sql as a basis, but I suggest making changes to fit your needs before starting your application. 
+Here is a short clip on how to use the application, in this instace, I have provided a seeds.sql as a basis, but I suggest making changes to fit your needs before starting your application. 
   
 ![Employee-Tracker](https://github.com/TSalamatin/SQL-Employee-Tracker/assets/128180862/55e7405a-bb4c-40d6-bf42-b282d290814c)
 
