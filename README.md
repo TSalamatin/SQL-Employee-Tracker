@@ -10,15 +10,15 @@ The function is the ability add Departments, Roles, and Employees to a database,
  
 ## Table of Contents
     
-- [Installation Instructions](#installation-instructions)
+-  [Installation Instructions](#installation-instructions)
 
-- [Usage Information](#usage-information)
+-  [Usage Information](#usage-information)
 
-- [License](#license)
+-  [License](#license)
 
-- [Tests](#tests)
+-  [Tests](#tests)
 
-- [My Links](#contact)
+-  [My Links](#contact)
 
     
 #Installation Instructions
