@@ -3,7 +3,8 @@
 
 ## Description
     
-This application takes advantage of the tools provided by Node.JS and MySQL. The function is the ability add Departments, Roles, and Employees to a database, as well as being able to update the Employee's role as time in the company goes on.
+This application takes advantage of the tools provided by Node.JS and MySQL. The function is the ability add Departments, Roles, and Employees to a database,
+as well as being able to update the Employee's role as time in the company goes on.
 
 
  
