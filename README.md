@@ -25,7 +25,7 @@ This application takes advantage of the tools provided by Node.JS and MySQL. The
 #Usage Information
     
     Here is a short clip on how to use the application, in this instace, I have provided a seeds.sql as a basis, but I suggest making changes to fit your needs before starting your application. 
-    ![Employee-Tracker](https://github.com/TSalamatin/SQL-Employee-Tracker/assets/128180862/170bfcaf-861a-44cf-8f55-e00ac013dec9)
+    ![Employee-Tracker](https://github.com/TSalamatin/SQL-Employee-Tracker/blob/main/assets/128180862/170bfcaf-861a-44cf-8f55-e00ac013dec9.png)
 
     
 #License
